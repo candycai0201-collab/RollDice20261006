@@ -33,12 +33,16 @@
             </state>
           </provider>
         </entry>
-        <tab><![CDATA[{"tabTitle":"MainActivity.kt","foregroundColor":-1536119,"textAttributes":{"name":"a","children":[{"name":"option","attributes":{"name":"FOREGROUND","value":"e88f89"}}]},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,-122,1,10,47,111,114,103,47,106,101,116,98,114,97,105,110,115,47,107,111,116,108,105,110,47,105,100,101,97,47,105,99,111,110,115,47,107,111,116,108,105,110,95,102,105,108,101,46,115,118,103,18,48,111,114,103,47,106,101,116,98,114,97,105,110,115,47,107,111,116,108,105,110,47,105,100,101,97,47,105,99,111,110,115,47,101,120,112,117,105,47,107,111,116,108,105,110,46,115,118,103,26,20,111,114,103,46,106,101,116,98,114,97,105,110,115,46,107,111,116,108,105,110,40,-98,-111,-47,-25,-8,-1,-1,-1,-1,1,48,0]}]]></tab>
+        <tab><![CDATA[{"tabTitle":"MainActivity.kt","foregroundColor":-9192071,"textAttributes":{"name":"a","children":[{"name":"option","attributes":{"name":"FOREGROUND","value":"73bd79"}}]},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,-122,1,10,47,111,114,103,47,106,101,116,98,114,97,105,110,115,47,107,111,116,108,105,110,47,105,100,101,97,47,105,99,111,110,115,47,107,111,116,108,105,110,95,102,105,108,101,46,115,118,103,18,48,111,114,103,47,106,101,116,98,114,97,105,110,115,47,107,111,116,108,105,110,47,105,100,101,97,47,105,99,111,110,115,47,101,120,112,117,105,47,107,111,116,108,105,110,46,115,118,103,26,20,111,114,103,46,106,101,116,98,114,97,105,110,115,46,107,111,116,108,105,110,40,-98,-111,-47,-25,-8,-1,-1,-1,-1,1,48,0]}]]></tab>
       </file>
     </leaf>
   </component>
   <component name="FileTypeUsageLocalSummary"><![CDATA[{
   "data": {
+    "AUTO_DETECTED": {
+      "usageCount": 1,
+      "lastUsed": 1791295073345
+    },
     "Kotlin": {
       "usageCount": 1,
       "lastUsed": 1791291662219
@@ -594,6 +598,16 @@
             <path>
               <item name="RollDice" type="1abcf292:AndroidViewProjectNode" />
               <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="manifests" type="f94875db:AndroidManifestsGroupNode" />
+            </path>
+            <path>
+              <item name="RollDice" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="kotlin+java" type="edd41e36:AndroidSourceTypeNode" />
+            </path>
+            <path>
+              <item name="RollDice" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
               <item name="res" type="d4f16f75:AndroidResFolderNode" />
             </path>
             <path>
@@ -622,6 +636,11 @@
             </path>
             <path>
               <item name="RollDice" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="keepRules" type="edd41e36:AndroidSourceTypeNode" />
+            </path>
+            <path>
+              <item name="RollDice" type="1abcf292:AndroidViewProjectNode" />
               <item name="Gradle Scripts" type="ae0cef3a:AndroidBuildScriptsGroupNode" />
             </path>
           </expand>
@@ -638,11 +657,47 @@
                 <attributes />
                 <data iconPath="expui/nodes/sourceRoot.svg" iconPlugin="com.intellij" isLeaf="false" text="manifests" />
                 <item name="manifests" type="f94875db:AndroidManifestsGroupNode" />
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
+                    </map>
+                  </attributes>
+                  <data iconPath="studio/icons/shell/filetree/manifest-file.svg" iconPlugin="org.jetbrains.android" isLeaf="true" text="AndroidManifest.xml" />
+                  <item name="AndroidManifest.xml" type="7792704b:AndroidManifestFileNode" />
+                </presentation>
               </presentation>
               <presentation>
                 <attributes />
                 <data iconPath="expui/nodes/sourceRoot.svg" iconPlugin="com.intellij" isLeaf="false" text="kotlin+java" />
                 <item name="kotlin+java" type="edd41e36:AndroidSourceTypeNode" />
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/app/src/main/java/com/example/rolldice" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/package.svg" iconPlugin="com.intellij" isLeaf="false" text="com.example.rolldice" />
+                  <item name="dir{file://C:/Users/user/AndroidStudioProjects/RollDice/app/src/main/java/com/example/rolldice}" type="cbb59c9e:AndroidPsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/app/src/androidTest/java/com/example/rolldice" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/package.svg" iconPlugin="com.intellij" isLeaf="false" text="com.example.rolldice" />
+                  <item name="dir{file://C:/Users/user/AndroidStudioProjects/RollDice/app/src/androidTest/java/com/example/rolldice}" type="cbb59c9e:AndroidPsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/app/src/test/java/com/example/rolldice" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/package.svg" iconPlugin="com.intellij" isLeaf="false" text="com.example.rolldice" />
+                  <item name="dir{file://C:/Users/user/AndroidStudioProjects/RollDice/app/src/test/java/com/example/rolldice}" type="cbb59c9e:AndroidPsiDirectoryNode" />
+                </presentation>
               </presentation>
               <presentation>
                 <attributes />
@@ -809,6 +864,15 @@
                 <attributes />
                 <data iconPath="expui/nodes/sourceRoot.svg" iconPlugin="com.intellij" isLeaf="false" text="keepRules" />
                 <item name="keepRules" type="edd41e36:AndroidSourceTypeNode" />
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/app/src/main/keepRules/rules.keep" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/fileTypes/text.svg" iconPlugin="com.intellij" isLeaf="true" text="rules.keep" />
+                  <item name="rules.keep" type="a967d35f:AndroidPsiFileNode" />
+                </presentation>
               </presentation>
             </presentation>
             <presentation>
@@ -895,8 +959,8 @@
   </component>
   <component name="ToolWindowManager">
     <layoutV2>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.29785156" />
-      <window_info id="Commit" order="1" weight="0.29785156" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.29785156" />
+      <window_info active="true" id="Commit" order="1" visible="true" weight="0.29785156" />
       <window_info id="Resources Explorer" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" order="0" />
       <window_info anchor="bottom" id="Terminal" order="1" />
@@ -915,9 +979,9 @@
       <unified_weights left="0.29785156" right="0.2503255" />
     </layoutV2>
     <recentWindows>
+      <value>Commit</value>
       <value>Project</value>
       <value>Gradle</value>
-      <value>Commit</value>
     </recentWindows>
   </component>
   <component name="WindowStateProjectService">
@@ -925,16 +989,23 @@
       <screen x="0" y="0" width="1536" height="816" />
     </state>
     <state x="1223" y="645" width="300" height="139" key="ProcessPopupWindow/0.0.1536.816@0.0.1536.816" timestamp="1791294577178" />
-    <state x="270" y="37" key="SettingsEditor" timestamp="1791293964187">
+    <state x="270" y="37" key="SettingsEditor" timestamp="1791295015829">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state x="270" y="37" key="SettingsEditor/0.0.1536.816@0.0.1536.816" timestamp="1791293964187" />
+    <state x="270" y="37" key="SettingsEditor/0.0.1536.816@0.0.1536.816" timestamp="1791295015829" />
+    <state x="573" y="137" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog" timestamp="1791295072819">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="573" y="137" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog/0.0.1536.816@0.0.1536.816" timestamp="1791295072819" />
     <state x="432" y="112" width="670" height="702" key="search.everywhere.popup" timestamp="1791292915017">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
     <state x="432" y="112" width="670" height="702" key="search.everywhere.popup/0.0.1536.816@0.0.1536.816" timestamp="1791292915017" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$USER_HOME$/ntuser.dat.LOG1">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/rolldice/MainActivity.kt">
       <provider selected="true" editor-type-id="android-source-code">
         <state selected-layout="SHOW_EDITOR">
